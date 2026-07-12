@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Hasan Nur Adhi Wibowo</h1>
 
-<!--
-**hasannuradhiwibowoo/hasannuradhiwibowoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Laravel+Developer;C%23+Developer;Learning+Android+Development;Welcome+to+my+GitHub!" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h3 align="center">
+Student • Software Engineering • Indonesia 🇮🇩
+</h3>
+
+<p align="center">
+Learning Laravel, C#, Kotlin, and Android Development
+</p>
+
+---
+
+##  About Me
+
+```powershell
+PS C:\Users\Hasan> whoami
+
+Name        : Hasan Adhi Wibowo
+School      : SMKN 1 Bantul
+Editor      : VS Code • Antigravity • Android Studio
+Learning    : Laravel • Kotlin • C#
+Dream       : Become a Software Engineer
+```
+
+##  Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,git,github,html,css,js,php,laravel,cs,dotnet,kotlin,androidstudio,mysql,sqlite" />
+
+</p>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasannuradhiwibowoo&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannuradhiwibowoo&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+##  GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hasannuradhiwibowoo&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+##  Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/hasannuradhiwibowoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
