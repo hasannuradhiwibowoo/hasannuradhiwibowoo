@@ -38,17 +38,6 @@ Dream       : Become a Software Engineer
 
 ---
 
-
-##  GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hasannuradhiwibowoo&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 ##  Connect with Me
 
 <p align="center">
