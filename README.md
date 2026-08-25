@@ -24,7 +24,7 @@ PS C:\Users\Hasan> whoami
 Name        : Hasan Adhi Wibowo
 School      : SMKN 1 Bantul
 Editor      : VS Code • Antigravity • Android Studio
-Learning    : Laravel • HTML • CSS • JS • Dart & Flutter
+Learning    : Laravel • HTML • CSS • JS • Dart & Flutter • Cybersecurity • Database/Backend
 Dream       : Become a Software Engineer
 ```
 
