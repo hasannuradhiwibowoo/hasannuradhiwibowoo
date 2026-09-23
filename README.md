@@ -42,11 +42,12 @@ Dream       : Become a Software Engineer
 
 <p align="center">
 
-<a href="https://github.com/hasannuradhiwibowoo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.instagram.com/hansss.naw/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-hansss.naw?style=for-the-badge&logo=instagram">
-</a>
+    <a href="https://github.com/hasannuradhiwibowoo" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-hasannuradhiwibowoo-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+
+    <a href="https://www.instagram.com/hansss.naw/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-hansss.naw-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
 
 </p>
