@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;C%23+Developer;Learning+Android+Development;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;C%23+Developer;Learning+Android+Development;Welcome+to+my+GitHub!" />
 
 </p>
 
